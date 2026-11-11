@@ -1,1 +1,43 @@
+HOMELAB SOC — PARTE 2 
+FORTIGATE FIREWALL & SEGURANÇA DE REDE
+DA ARQUITETURA DE REDE À IMPLEMENTAÇÃO DA SEGURANÇA
+
+Na primeira fase deste projeto, apresentei a arquitetura geral do meu HomeLab SOC, os objetivos da infraestrutura, 
+o diagrama de rede e as tecnologias selecionadas para construir um ambiente prático de aprendizagem e experimentação em Cibersegurança,
+nomeadamente nas áreas de SOC Operations, Blue Team e Pentesting.
+
+Nesta segunda fase, avancei para uma componente fundamental da infraestrutura: 
+a implementação da firewall e das políticas de segurança de rede utilizando o FortiGate VM.
+
+O objetivo desta etapa foi estabelecer uma camada de controlo e proteção capaz de gerir 
+a comunicação entre os diferentes segmentos da infraestrutura.
+
+*   PRINCIPAIS ATIVIDADES DESENVOLVIDAS
+-Configuração das interfaces de rede do FortiGate.
+-Definição e configuração do endereçamento IP.
+-Importação e implementação de políticas de firewall.
+-Definição de regras de acesso.
+-Configuração do encaminhamento de tráfego.
+-Validação das políticas através de testes de conectividade e controlo de acesso.
+
+* OBJETIVO DE SEGURANÇA
+
+Mais do que garantir conectividade, procurei estabelecer uma infraestrutura onde a comunicação entre os diferentes segmentos
+seja controlada de acordo com políticas de segurança previamente definidas.
+
+Esta implementação representa um passo importante para a construção de um ambiente preparado para a centralização de registos (logs), 
+monitorização de eventos e futura integração com uma plataforma SIEM.
+
+* APRENDIZAGEM E COMPETÊNCIAS DESENVOLVIDAS
+
+Este projeto tem sido uma oportunidade para transformar conhecimento teórico em experiência prática,
+permitindo-me desenvolver e consolidar competências em Infraestrutura SOC,
+Segurança de Redes e Administração de Firewalls.
+
+Mais do que configurar ferramentas, cada etapa tem-me permitido compreender melhor como funciona a proteção de uma infraestrutura, 
+os desafios envolvidos e a importância de testar e validar cada implementação.
+
+🚀 CONTINUIDADE DO PROJETO
+
+A construção continua! Cada etapa representa uma oportunidade para aprender, implementar, testar e melhorar.
 
