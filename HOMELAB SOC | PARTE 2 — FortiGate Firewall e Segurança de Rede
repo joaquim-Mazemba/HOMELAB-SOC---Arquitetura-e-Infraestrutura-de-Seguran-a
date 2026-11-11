@@ -12,7 +12,7 @@ a implementação da firewall e das políticas de segurança de rede utilizando 
 O objetivo desta etapa foi estabelecer uma camada de controlo e proteção capaz de gerir 
 a comunicação entre os diferentes segmentos da infraestrutura.
 
-*   PRINCIPAIS ATIVIDADES DESENVOLVIDAS
+*  PRINCIPAIS ATIVIDADES DESENVOLVIDAS
 -Configuração das interfaces de rede do FortiGate.
 -Definição e configuração do endereçamento IP.
 -Importação e implementação de políticas de firewall.
